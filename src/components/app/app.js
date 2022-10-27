@@ -1,10 +1,8 @@
 import { Component } from 'react';
-
 import AppHeader from '../app-header';
 import SearchPanel from '../search-panel';
 import TodoList from '../todo-list';
 import ItemStatusFilter from '../item-status-filter';
-
 import './app.css';
 import AddItem from '../add-item';
 
